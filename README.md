@@ -21,5 +21,6 @@ In this project, we are employing JavaScript to create a very organized and reac
 
    ## Recommendations
    * Finally, we can recommend:
+   
     - In future, we recommend adding images of UFOs through out the webpage, that will make the webpage eye-catching
     - Adding an automated function that will update a new UFO sighting in to the data is a plus
